@@ -1,0 +1,3 @@
+[submodule "tanko-ESP32-cam-RCOM"]
+	path = tanko-ESP32-cam-RCOM
+	url = https://github.com/nerdgarden/tanko-ESP32-cam-RCOM.git
